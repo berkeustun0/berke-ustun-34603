@@ -28,7 +28,7 @@ import java.util.*;
  * 
  * Date: 2025
  * 
- * Author: [Your Name]
+ * Author: [berke ustun 34603]
  */
 
 public class LectureTracker3000 {
